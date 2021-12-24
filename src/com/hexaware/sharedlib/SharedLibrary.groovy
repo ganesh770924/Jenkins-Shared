@@ -1,4 +1,4 @@
-import com.hexaware.sharedlib.SharedLibrary
+package com.hexaware.sharedlib
 public class SharedLibrary{
   def steps
   
