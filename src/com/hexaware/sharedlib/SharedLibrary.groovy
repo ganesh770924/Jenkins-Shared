@@ -7,7 +7,7 @@ public class SharedLibrary{
   
   }
   
-  public void startbuild(map config=[:]){
-    steps.echo "Hello World ,${config.name}"
+  public void startbuild(){
+    steps.echo "Hello World"
     }
 }
